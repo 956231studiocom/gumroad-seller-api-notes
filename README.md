@@ -133,3 +133,7 @@ Related, if useful:
 
 Corrections welcome — open an issue if any of the above behaves differently on
 your account.
+
+---
+
+Maintained by [956231 Studio](https://956231studio.com/) — practical packs for sellers and engineers, built and tested in production: [browse all packs](https://956231studio.com/packs/).
